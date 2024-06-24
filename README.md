@@ -29,7 +29,7 @@ ShopSmart Inc. provides five datasets from various website tables. These dataset
 * Timestamps of customer interactions (website visits, product views etc.)
 
 **Methodology:**
-Our goal is to leverage Exploratory Data Analysis (EDA), feature engineering, and in-depth customer behavior analysis to generate actionable insights for ShopSmart.
+Our goal is to leverage Exploratory Data Analysis (EDA), feature engineering, data visualization and in-depth customer behavior analysis to generate actionable insights for ShopSmart.
 
 1. **Data Preprocessing:**
     * Merge the five datasets into a unified and cohesive data structure.
