@@ -9,6 +9,7 @@ This project focuses on analyzing customer behavior and preferences for ShopSmar
 * **Enhance Marketing Strategies:** Refine product offerings and marketing campaigns to boost customer satisfaction and retention.
 
 **Problem Statement:**
+
 ShopSmart Inc. lacks a deep understanding of its customer base. This knowledge gap hinders their ability to:
 
 * **Personalize the customer experience:** ShopSmart cannot tailor the website, product recommendations, or marketing strategies to individual customer preferences.
